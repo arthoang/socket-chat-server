@@ -12,7 +12,7 @@ Nodejs Socket.io server
 *	Create conversation
 *	Get conversation
 
-2. Client:  
+2. Client:  [Command line Client](https://github.com/arthoang/socket-chat-client)
 Console app, using readline library. Based on user input, will communicate with server by emitting events
 
 3. How to use this server:
