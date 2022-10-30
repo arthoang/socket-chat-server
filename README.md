@@ -16,7 +16,8 @@ Nodejs Socket.io server
 Console app, using readline library. Based on user input, will communicate with server by emitting events
 
 3. How to use this server:
--	Navigate to “server” project folder, and run: 
+- Clone the project
+-	Navigate to project folder, and run: 
 ```
 npm install
 ```
