@@ -27,3 +27,5 @@ npm start
 ```
 Note: Make sure port 5858 is available. Otherwise, modify environment PORT in package.json, the the “start” script
 
+### Video demo
+[Chat Demo](https://youtu.be/QQ6oG3r9uvE)
